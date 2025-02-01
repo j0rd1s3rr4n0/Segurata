@@ -74,7 +74,7 @@ Move the binary to a globally accessible location:
 
 ```bash
 sudo mv dist/segurata /usr/bin/segurata
-sudo chmod 755 /usr/bin/segurata
+sudo chmod 111 /usr/bin/segurata
 ```
 
 ---
