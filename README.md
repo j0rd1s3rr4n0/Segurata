@@ -1,7 +1,3 @@
-Sure! Here's the complete README translated into English:
-
----
-
 # **Segurata - Restricted Terminal**
 
 **Segurata** is a custom terminal that restricts the use of commands to those previously specified. This project is ideal for situations where you want to create a controlled execution environment, limiting the actions of the user to increase security.
