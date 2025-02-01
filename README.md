@@ -142,10 +142,10 @@ Make sure that each user has exclusive permissions to execute their own copy of 
 
 ```bash
 sudo chown user1:user1 /usr/local/segurata/user1/segurata
-sudo chmod 700 /usr/local/segurata/user1/segurata
+sudo chmod 111/usr/local/segurata/user1/segurata
 
 sudo chown user2:user2 /usr/local/segurata/user2/segurata
-sudo chmod 700 /usr/local/segurata/user2/segurata
+sudo chmod 111/usr/local/segurata/user2/segurata
 ```
 
 ### 4. **Configure Allowed Commands in `segurata.py`**
