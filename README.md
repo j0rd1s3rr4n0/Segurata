@@ -153,7 +153,7 @@ sudo chmod 111/usr/local/segurata/user2/segurata
 Ensure that **Segurata** only allows the commands you've specified in the `segurata.py` file (e.g., `chmod 000` and `chmod +x`):
 
 ```python
-allowed_commands = ["ls", "cat","wget,"curl","whoami","uname"]
+allowed_commands = ["ls", "cat","wget","curl","whoami","uname"]
 ```
 
 ---
